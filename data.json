@@ -1,0 +1,1321 @@
+{
+ "date": "2026-11-22",
+ "n_total": 225,
+ "entries": [
+  {
+   "rank": 1,
+   "nickname": "たのし",
+   "score": 84.8,
+   "measured_at": 1795244994
+  },
+  {
+   "rank": 2,
+   "nickname": "ピースのこうめい",
+   "score": 84.7,
+   "measured_at": 1795235820
+  },
+  {
+   "rank": 3,
+   "nickname": "神",
+   "score": 82.8,
+   "measured_at": 1795224598
+  },
+  {
+   "rank": 4,
+   "nickname": "🏃‍♂️",
+   "score": 80.3,
+   "measured_at": 1795244417
+  },
+  {
+   "rank": 5,
+   "nickname": "100m10秒台",
+   "score": 76.7,
+   "measured_at": 1795245421
+  },
+  {
+   "rank": 6,
+   "nickname": "あああ",
+   "score": 76.5,
+   "measured_at": 1795246953
+  },
+  {
+   "rank": 7,
+   "nickname": "チピ",
+   "score": 75.4,
+   "measured_at": 1795332999
+  },
+  {
+   "rank": 8,
+   "nickname": "Kazuya",
+   "score": 74.9,
+   "measured_at": 1795240072
+  },
+  {
+   "rank": 9,
+   "nickname": "かなてぃ",
+   "score": 74.7,
+   "measured_at": 1795244610
+  },
+  {
+   "rank": 10,
+   "nickname": "シューズヒーロー",
+   "score": 72.4,
+   "measured_at": 1794974294
+  },
+  {
+   "rank": 11,
+   "nickname": "ち",
+   "score": 71.7,
+   "measured_at": 1795327751
+  },
+  {
+   "rank": 12,
+   "nickname": "東京大学出身",
+   "score": 71.3,
+   "measured_at": 1795234958
+  },
+  {
+   "rank": 13,
+   "nickname": "ゆづき（足踏み）",
+   "score": 70.7,
+   "measured_at": 1795322671
+  },
+  {
+   "rank": 14,
+   "nickname": "ゆず",
+   "score": 70.4,
+   "measured_at": 1795232483
+  },
+  {
+   "rank": 15,
+   "nickname": "3150",
+   "score": 70.2,
+   "measured_at": 1795326447
+  },
+  {
+   "rank": 16,
+   "nickname": "なぎさ（足踏み）",
+   "score": 68.5,
+   "measured_at": 1795232690
+  },
+  {
+   "rank": 17,
+   "nickname": "1番かっこいい人です",
+   "score": 67.6,
+   "measured_at": 1795244228
+  },
+  {
+   "rank": 18,
+   "nickname": "ドラらー",
+   "score": 66.6,
+   "measured_at": 1795242266
+  },
+  {
+   "rank": 19,
+   "nickname": "ゆうと（足踏み）",
+   "score": 66.1,
+   "measured_at": 1795247676
+  },
+  {
+   "rank": 20,
+   "nickname": "戦車クイヤ",
+   "score": 65.5,
+   "measured_at": 1795237429
+  },
+  {
+   "rank": 21,
+   "nickname": "コウ",
+   "score": 65.4,
+   "measured_at": 1795326813
+  },
+  {
+   "rank": 22,
+   "nickname": "山田",
+   "score": 65.4,
+   "measured_at": 1795331769
+  },
+  {
+   "rank": 23,
+   "nickname": "たす（足踏み）",
+   "score": 65.3,
+   "measured_at": 1795313230
+  },
+  {
+   "rank": 24,
+   "nickname": "えいた",
+   "score": 65.2,
+   "measured_at": 1795249017
+  },
+  {
+   "rank": 25,
+   "nickname": "クリマン",
+   "score": 65.1,
+   "measured_at": 1795331956
+  },
+  {
+   "rank": 26,
+   "nickname": "👍👍（足踏み）",
+   "score": 64.8,
+   "measured_at": 1795233366
+  },
+  {
+   "rank": 27,
+   "nickname": "うたりく",
+   "score": 64.8,
+   "measured_at": 1795247989
+  },
+  {
+   "rank": 28,
+   "nickname": "れんし",
+   "score": 64.7,
+   "measured_at": 1795315800
+  },
+  {
+   "rank": 29,
+   "nickname": "Mr.善福寺",
+   "score": 64.0,
+   "measured_at": 1795245786
+  },
+  {
+   "rank": 30,
+   "nickname": "Seren",
+   "score": 64.0,
+   "measured_at": 1795246165
+  },
+  {
+   "rank": 31,
+   "nickname": "ちひろ🥶❤️👀（足踏み）",
+   "score": 63.6,
+   "measured_at": 1795225118
+  },
+  {
+   "rank": 32,
+   "nickname": "ちばしん",
+   "score": 63.5,
+   "measured_at": 1795234693
+  },
+  {
+   "rank": 33,
+   "nickname": "King",
+   "score": 63.5,
+   "measured_at": 1795312394
+  },
+  {
+   "rank": 34,
+   "nickname": "ゆゆゆ",
+   "score": 63.5,
+   "measured_at": 1795316322
+  },
+  {
+   "rank": 35,
+   "nickname": "みんきち",
+   "score": 63.1,
+   "measured_at": 1795229864
+  },
+  {
+   "rank": 36,
+   "nickname": "Rinta",
+   "score": 63.1,
+   "measured_at": 1795311248
+  },
+  {
+   "rank": 37,
+   "nickname": "だいちゃん",
+   "score": 62.8,
+   "measured_at": 1795231265
+  },
+  {
+   "rank": 38,
+   "nickname": "ゼン",
+   "score": 62.8,
+   "measured_at": 1795242445
+  },
+  {
+   "rank": 39,
+   "nickname": "くま",
+   "score": 62.3,
+   "measured_at": 1795329055
+  },
+  {
+   "rank": 40,
+   "nickname": "さやか",
+   "score": 61.7,
+   "measured_at": 1795238082
+  },
+  {
+   "rank": 41,
+   "nickname": "うっちー",
+   "score": 61.6,
+   "measured_at": 1795231493
+  },
+  {
+   "rank": 42,
+   "nickname": "かほ",
+   "score": 61.2,
+   "measured_at": 1795240620
+  },
+  {
+   "rank": 43,
+   "nickname": "jp",
+   "score": 61.2,
+   "measured_at": 1795311589
+  },
+  {
+   "rank": 44,
+   "nickname": "なっちゃん",
+   "score": 60.9,
+   "measured_at": 1794295727
+  },
+  {
+   "rank": 45,
+   "nickname": "もり（足踏み）",
+   "score": 60.8,
+   "measured_at": 1795246344
+  },
+  {
+   "rank": 46,
+   "nickname": "まゆ（足踏み）",
+   "score": 60.5,
+   "measured_at": 1795329210
+  },
+  {
+   "rank": 47,
+   "nickname": "りん（足踏み）",
+   "score": 60.4,
+   "measured_at": 1795325003
+  },
+  {
+   "rank": 48,
+   "nickname": "メミー",
+   "score": 60.2,
+   "measured_at": 1795326268
+  },
+  {
+   "rank": 49,
+   "nickname": "さくら（足踏み）",
+   "score": 59.8,
+   "measured_at": 1795322851
+  },
+  {
+   "rank": 50,
+   "nickname": "さき（足踏み）",
+   "score": 59.7,
+   "measured_at": 1795332496
+  },
+  {
+   "rank": 51,
+   "nickname": "🌱（足踏み）",
+   "score": 59.6,
+   "measured_at": 1795249743
+  },
+  {
+   "rank": 52,
+   "nickname": "Rintaro",
+   "score": 59.6,
+   "measured_at": 1795311421
+  },
+  {
+   "rank": 53,
+   "nickname": "たくみ（足踏み）",
+   "score": 59.2,
+   "measured_at": 1795237181
+  },
+  {
+   "rank": 54,
+   "nickname": "ゆず（足踏み）",
+   "score": 59.2,
+   "measured_at": 1795242809
+  },
+  {
+   "rank": 55,
+   "nickname": "か",
+   "score": 58.8,
+   "measured_at": 1795323827
+  },
+  {
+   "rank": 56,
+   "nickname": "しゅんや",
+   "score": 58.6,
+   "measured_at": 1795244807
+  },
+  {
+   "rank": 57,
+   "nickname": "かとぱる",
+   "score": 58.6,
+   "measured_at": 1795246560
+  },
+  {
+   "rank": 58,
+   "nickname": "おぎも",
+   "score": 58.2,
+   "measured_at": 1795331400
+  },
+  {
+   "rank": 59,
+   "nickname": "なおや",
+   "score": 57.9,
+   "measured_at": 1795236960
+  },
+  {
+   "rank": 60,
+   "nickname": "そよかちゃん（21）",
+   "score": 57.9,
+   "measured_at": 1795243068
+  },
+  {
+   "rank": 61,
+   "nickname": "SuicaのA案",
+   "score": 57.9,
+   "measured_at": 1795324342
+  },
+  {
+   "rank": 62,
+   "nickname": "ゆあ（足踏み）",
+   "score": 57.9,
+   "measured_at": 1795329867
+  },
+  {
+   "rank": 63,
+   "nickname": "ふみや（足踏み）",
+   "score": 57.6,
+   "measured_at": 1795325541
+  },
+  {
+   "rank": 64,
+   "nickname": "ほたて5.72m",
+   "score": 57.2,
+   "measured_at": 1795245609
+  },
+  {
+   "rank": 65,
+   "nickname": "ほの（足踏み）",
+   "score": 56.9,
+   "measured_at": 1795240235
+  },
+  {
+   "rank": 66,
+   "nickname": "たなか",
+   "score": 56.7,
+   "measured_at": 1795310073
+  },
+  {
+   "rank": 67,
+   "nickname": "はぬ",
+   "score": 56.1,
+   "measured_at": 1795332141
+  },
+  {
+   "rank": 68,
+   "nickname": "むむちゃ",
+   "score": 56.0,
+   "measured_at": 1795324582
+  },
+  {
+   "rank": 69,
+   "nickname": "ララ（足踏み）",
+   "score": 55.8,
+   "measured_at": 1795235183
+  },
+  {
+   "rank": 70,
+   "nickname": "チーズ",
+   "score": 55.7,
+   "measured_at": 1795328900
+  },
+  {
+   "rank": 71,
+   "nickname": "エンジンくいや",
+   "score": 55.6,
+   "measured_at": 1795237645
+  },
+  {
+   "rank": 72,
+   "nickname": "かずた",
+   "score": 55.5,
+   "measured_at": 1795315975
+  },
+  {
+   "rank": 73,
+   "nickname": "ふぁじめ",
+   "score": 55.4,
+   "measured_at": 1795236155
+  },
+  {
+   "rank": 74,
+   "nickname": "まさ",
+   "score": 55.1,
+   "measured_at": 1795329526
+  },
+  {
+   "rank": 75,
+   "nickname": "ゆう（足踏み）",
+   "score": 54.9,
+   "measured_at": 1795321402
+  },
+  {
+   "rank": 76,
+   "nickname": "ヒーロー",
+   "score": 54.8,
+   "measured_at": 1794975158
+  },
+  {
+   "rank": 77,
+   "nickname": "岩ゆう（足踏み）",
+   "score": 54.8,
+   "measured_at": 1795330061
+  },
+  {
+   "rank": 78,
+   "nickname": "つむぎ（足踏み）",
+   "score": 54.5,
+   "measured_at": 1795237819
+  },
+  {
+   "rank": 79,
+   "nickname": "ひろ",
+   "score": 54.5,
+   "measured_at": 1795242628
+  },
+  {
+   "rank": 80,
+   "nickname": "だいごくん",
+   "score": 54.4,
+   "measured_at": 1792043131
+  },
+  {
+   "rank": 81,
+   "nickname": "うささん",
+   "score": 53.9,
+   "measured_at": 1795242064
+  },
+  {
+   "rank": 82,
+   "nickname": "おっとよし",
+   "score": 53.8,
+   "measured_at": 1795325905
+  },
+  {
+   "rank": 83,
+   "nickname": "キムタク",
+   "score": 53.7,
+   "measured_at": 1795238687
+  },
+  {
+   "rank": 84,
+   "nickname": "むらま2",
+   "score": 53.6,
+   "measured_at": 1794812916
+  },
+  {
+   "rank": 85,
+   "nickname": "きょうへい",
+   "score": 53.6,
+   "measured_at": 1795314549
+  },
+  {
+   "rank": 86,
+   "nickname": "みやた",
+   "score": 53.4,
+   "measured_at": 1795316165
+  },
+  {
+   "rank": 87,
+   "nickname": "はると（足踏み）",
+   "score": 53.3,
+   "measured_at": 1795235538
+  },
+  {
+   "rank": 88,
+   "nickname": "ゴーゴートーマス",
+   "score": 53.2,
+   "measured_at": 1795238532
+  },
+  {
+   "rank": 89,
+   "nickname": "仮面浪人",
+   "score": 53.2,
+   "measured_at": 1795243816
+  },
+  {
+   "rank": 90,
+   "nickname": "よつば",
+   "score": 53.2,
+   "measured_at": 1795326631
+  },
+  {
+   "rank": 91,
+   "nickname": "じょーすけ",
+   "score": 53.0,
+   "measured_at": 1795235991
+  },
+  {
+   "rank": 92,
+   "nickname": "G",
+   "score": 52.7,
+   "measured_at": 1795330623
+  },
+  {
+   "rank": 93,
+   "nickname": "くりこ",
+   "score": 52.6,
+   "measured_at": 1795239290
+  },
+  {
+   "rank": 94,
+   "nickname": "さなこ",
+   "score": 52.5,
+   "measured_at": 1795327195
+  },
+  {
+   "rank": 95,
+   "nickname": "まっすー（当日）",
+   "score": 52.3,
+   "measured_at": 1795333827
+  },
+  {
+   "rank": 96,
+   "nickname": "あほだよ",
+   "score": 52.1,
+   "measured_at": 1792043924
+  },
+  {
+   "rank": 97,
+   "nickname": "しょう",
+   "score": 52.0,
+   "measured_at": 1795320936
+  },
+  {
+   "rank": 98,
+   "nickname": "やましたまさと",
+   "score": 51.8,
+   "measured_at": 1795314331
+  },
+  {
+   "rank": 99,
+   "nickname": "ひ",
+   "score": 51.8,
+   "measured_at": 1795327383
+  },
+  {
+   "rank": 100,
+   "nickname": "さお（足踏み）",
+   "score": 51.5,
+   "measured_at": 1795321079
+  },
+  {
+   "rank": 101,
+   "nickname": "れかろす",
+   "score": 51.4,
+   "measured_at": 1795245219
+  },
+  {
+   "rank": 102,
+   "nickname": "ラスト",
+   "score": 51.4,
+   "measured_at": 1795333454
+  },
+  {
+   "rank": 103,
+   "nickname": "あずさ（足踏み）",
+   "score": 51.3,
+   "measured_at": 1795236391
+  },
+  {
+   "rank": 104,
+   "nickname": "みお",
+   "score": 51.3,
+   "measured_at": 1795239493
+  },
+  {
+   "rank": 105,
+   "nickname": "m",
+   "score": 51.1,
+   "measured_at": 1795228717
+  },
+  {
+   "rank": 106,
+   "nickname": "みなと（足踏み）",
+   "score": 51.1,
+   "measured_at": 1795238309
+  },
+  {
+   "rank": 107,
+   "nickname": "にっしっしー（足踏み）",
+   "score": 50.9,
+   "measured_at": 1795328031
+  },
+  {
+   "rank": 108,
+   "nickname": "ロケットランチャー（足踏み）",
+   "score": 50.8,
+   "measured_at": 1795231807
+  },
+  {
+   "rank": 109,
+   "nickname": "かれん",
+   "score": 50.4,
+   "measured_at": 1795225942
+  },
+  {
+   "rank": 110,
+   "nickname": "なお",
+   "score": 50.3,
+   "measured_at": 1795326996
+  },
+  {
+   "rank": 111,
+   "nickname": "ひより",
+   "score": 50.3,
+   "measured_at": 1795331019
+  },
+  {
+   "rank": 112,
+   "nickname": "あしはやい",
+   "score": 50.2,
+   "measured_at": 1795324099
+  },
+  {
+   "rank": 113,
+   "nickname": "ふーちゃん（足踏み）",
+   "score": 50.1,
+   "measured_at": 1795240420
+  },
+  {
+   "rank": 114,
+   "nickname": "父ちゃん",
+   "score": 50.1,
+   "measured_at": 1795320688
+  },
+  {
+   "rank": 115,
+   "nickname": "よしだのれん（足踏み）",
+   "score": 49.9,
+   "measured_at": 1795314025
+  },
+  {
+   "rank": 116,
+   "nickname": "フミ",
+   "score": 49.8,
+   "measured_at": 1795248432
+  },
+  {
+   "rank": 117,
+   "nickname": "うめのこ（足踏み）",
+   "score": 49.6,
+   "measured_at": 1795323029
+  },
+  {
+   "rank": 118,
+   "nickname": "すぎ研",
+   "score": 49.5,
+   "measured_at": 1795245982
+  },
+  {
+   "rank": 119,
+   "nickname": "しおり",
+   "score": 49.5,
+   "measured_at": 1795331208
+  },
+  {
+   "rank": 120,
+   "nickname": "けい",
+   "score": 49.3,
+   "measured_at": 1795228557
+  },
+  {
+   "rank": 121,
+   "nickname": "くま",
+   "score": 49.2,
+   "measured_at": 1795232339
+  },
+  {
+   "rank": 122,
+   "nickname": "ゆき",
+   "score": 48.6,
+   "measured_at": 1795332715
+  },
+  {
+   "rank": 123,
+   "nickname": "Kazz Cars",
+   "score": 48.5,
+   "measured_at": 1795250249
+  },
+  {
+   "rank": 124,
+   "nickname": "めぐ",
+   "score": 48.3,
+   "measured_at": 1795329690
+  },
+  {
+   "rank": 125,
+   "nickname": "りりか（足踏み）",
+   "score": 48.2,
+   "measured_at": 1795233019
+  },
+  {
+   "rank": 126,
+   "nickname": "なな（足踏み）",
+   "score": 48.2,
+   "measured_at": 1795243445
+  },
+  {
+   "rank": 127,
+   "nickname": "とみー",
+   "score": 48.0,
+   "measured_at": 1794812446
+  },
+  {
+   "rank": 128,
+   "nickname": "たかてる（足踏み）",
+   "score": 48.0,
+   "measured_at": 1795233542
+  },
+  {
+   "rank": 129,
+   "nickname": "MK（足踏み）",
+   "score": 48.0,
+   "measured_at": 1795322494
+  },
+  {
+   "rank": 130,
+   "nickname": "ひま",
+   "score": 48.0,
+   "measured_at": 1795334576
+  },
+  {
+   "rank": 131,
+   "nickname": "もち",
+   "score": 47.6,
+   "measured_at": 1795227040
+  },
+  {
+   "rank": 132,
+   "nickname": "たすき（足踏み）",
+   "score": 47.6,
+   "measured_at": 1795309368
+  },
+  {
+   "rank": 133,
+   "nickname": "みな（足踏み）",
+   "score": 47.4,
+   "measured_at": 1795227227
+  },
+  {
+   "rank": 134,
+   "nickname": "ゆうと",
+   "score": 46.6,
+   "measured_at": 1795228946
+  },
+  {
+   "rank": 135,
+   "nickname": "utena",
+   "score": 46.6,
+   "measured_at": 1795239901
+  },
+  {
+   "rank": 136,
+   "nickname": "ちいかわ",
+   "score": 46.5,
+   "measured_at": 1794295934
+  },
+  {
+   "rank": 137,
+   "nickname": "かなちん",
+   "score": 46.5,
+   "measured_at": 1795239065
+  },
+  {
+   "rank": 138,
+   "nickname": "さっちゃん（足踏み）",
+   "score": 46.5,
+   "measured_at": 1795322323
+  },
+  {
+   "rank": 139,
+   "nickname": "ななせ",
+   "score": 46.4,
+   "measured_at": 1795227789
+  },
+  {
+   "rank": 140,
+   "nickname": "Q",
+   "score": 46.3,
+   "measured_at": 1795321225
+  },
+  {
+   "rank": 141,
+   "nickname": "精神弱者",
+   "score": 46.2,
+   "measured_at": 1794975546
+  },
+  {
+   "rank": 142,
+   "nickname": "のびしろきなこ",
+   "score": 46.1,
+   "measured_at": 1795247149
+  },
+  {
+   "rank": 143,
+   "nickname": "まっっすー",
+   "score": 45.5,
+   "measured_at": 1792043702
+  },
+  {
+   "rank": 144,
+   "nickname": "カイト（足踏み）",
+   "score": 45.1,
+   "measured_at": 1795324828
+  },
+  {
+   "rank": 145,
+   "nickname": "かこ（足踏み）",
+   "score": 45.0,
+   "measured_at": 1795241684
+  },
+  {
+   "rank": 146,
+   "nickname": "マツクニ",
+   "score": 44.6,
+   "measured_at": 1795238899
+  },
+  {
+   "rank": 147,
+   "nickname": "おくのけん",
+   "score": 44.5,
+   "measured_at": 1793939480
+  },
+  {
+   "rank": 148,
+   "nickname": "まさうっきー",
+   "score": 44.4,
+   "measured_at": 1795313721
+  },
+  {
+   "rank": 149,
+   "nickname": "うたのまゆ",
+   "score": 44.4,
+   "measured_at": 1795334225
+  },
+  {
+   "rank": 150,
+   "nickname": "でんき",
+   "score": 44.3,
+   "measured_at": 1795249223
+  },
+  {
+   "rank": 151,
+   "nickname": "ひか（足踏み）",
+   "score": 44.3,
+   "measured_at": 1795332320
+  },
+  {
+   "rank": 152,
+   "nickname": "だいごくん2",
+   "score": 43.8,
+   "measured_at": 1792043432
+  },
+  {
+   "rank": 153,
+   "nickname": "あられ",
+   "score": 43.8,
+   "measured_at": 1795312932
+  },
+  {
+   "rank": 154,
+   "nickname": "👀（足踏み）",
+   "score": 43.4,
+   "measured_at": 1795233189
+  },
+  {
+   "rank": 155,
+   "nickname": "はいぼくしゃ",
+   "score": 43.2,
+   "measured_at": 1795330830
+  },
+  {
+   "rank": 156,
+   "nickname": "うるる",
+   "score": 43.1,
+   "measured_at": 1795323392
+  },
+  {
+   "rank": 157,
+   "nickname": "Ryoma（足踏み）",
+   "score": 42.9,
+   "measured_at": 1795312579
+  },
+  {
+   "rank": 158,
+   "nickname": "くわしゃん",
+   "score": 42.6,
+   "measured_at": 1795321951
+  },
+  {
+   "rank": 159,
+   "nickname": "このは",
+   "score": 42.2,
+   "measured_at": 1795227959
+  },
+  {
+   "rank": 160,
+   "nickname": "こんどは",
+   "score": 41.7,
+   "measured_at": 1795230237
+  },
+  {
+   "rank": 161,
+   "nickname": "Papa",
+   "score": 41.6,
+   "measured_at": 1795312736
+  },
+  {
+   "rank": 162,
+   "nickname": "じょうのすけ（足踏み）",
+   "score": 41.4,
+   "measured_at": 1795247503
+  },
+  {
+   "rank": 163,
+   "nickname": "あほかも",
+   "score": 41.2,
+   "measured_at": 1795333631
+  },
+  {
+   "rank": 164,
+   "nickname": "あっちー",
+   "score": 40.8,
+   "measured_at": 1795233906
+  },
+  {
+   "rank": 165,
+   "nickname": "うめ",
+   "score": 40.7,
+   "measured_at": 1795240865
+  },
+  {
+   "rank": 166,
+   "nickname": "ようた（足踏み）",
+   "score": 40.6,
+   "measured_at": 1795236564
+  },
+  {
+   "rank": 167,
+   "nickname": "にってい（足踏み）",
+   "score": 40.0,
+   "measured_at": 1795227432
+  },
+  {
+   "rank": 168,
+   "nickname": "だいごくんファン",
+   "score": 39.9,
+   "measured_at": 1795241094
+  },
+  {
+   "rank": 169,
+   "nickname": "エミリー",
+   "score": 39.8,
+   "measured_at": 1795229498
+  },
+  {
+   "rank": 170,
+   "nickname": "リュウゾウ",
+   "score": 39.3,
+   "measured_at": 1795246749
+  },
+  {
+   "rank": 171,
+   "nickname": "イワコ（足踏み）",
+   "score": 38.9,
+   "measured_at": 1795330239
+  },
+  {
+   "rank": 172,
+   "nickname": "えいすけ（足踏み）",
+   "score": 38.8,
+   "measured_at": 1795320532
+  },
+  {
+   "rank": 173,
+   "nickname": "りょうへい（足踏み）",
+   "score": 38.8,
+   "measured_at": 1795323566
+  },
+  {
+   "rank": 174,
+   "nickname": "2年の野獣（足踏み）",
+   "score": 38.7,
+   "measured_at": 1795325714
+  },
+  {
+   "rank": 175,
+   "nickname": "たつこ",
+   "score": 38.6,
+   "measured_at": 1795330427
+  },
+  {
+   "rank": 176,
+   "nickname": "すずの（足踏み）",
+   "score": 38.5,
+   "measured_at": 1795315643
+  },
+  {
+   "rank": 177,
+   "nickname": "まほ（足踏み）",
+   "score": 38.1,
+   "measured_at": 1795232876
+  },
+  {
+   "rank": 178,
+   "nickname": "四小の野獣（足踏み）",
+   "score": 38.1,
+   "measured_at": 1795325366
+  },
+  {
+   "rank": 179,
+   "nickname": "カッサーノ",
+   "score": 37.9,
+   "measured_at": 1795226218
+  },
+  {
+   "rank": 180,
+   "nickname": "タカ",
+   "score": 37.9,
+   "measured_at": 1795328514
+  },
+  {
+   "rank": 181,
+   "nickname": "とくしまだいご",
+   "score": 37.9,
+   "measured_at": 1795331586
+  },
+  {
+   "rank": 182,
+   "nickname": "だいごくんファン2",
+   "score": 37.8,
+   "measured_at": 1795241286
+  },
+  {
+   "rank": 183,
+   "nickname": "クリスティアーノ",
+   "score": 37.6,
+   "measured_at": 1795243631
+  },
+  {
+   "rank": 184,
+   "nickname": "くおん（足踏み）",
+   "score": 37.3,
+   "measured_at": 1795236783
+  },
+  {
+   "rank": 185,
+   "nickname": "ひろし",
+   "score": 37.1,
+   "measured_at": 1795226832
+  },
+  {
+   "rank": 186,
+   "nickname": "ゆい（足踏み）",
+   "score": 37.1,
+   "measured_at": 1795233719
+  },
+  {
+   "rank": 187,
+   "nickname": "おんぷ🎶（足踏み）",
+   "score": 36.9,
+   "measured_at": 1795225327
+  },
+  {
+   "rank": 188,
+   "nickname": "あまり",
+   "score": 36.2,
+   "measured_at": 1795243264
+  },
+  {
+   "rank": 189,
+   "nickname": "あおい（足踏み）",
+   "score": 35.8,
+   "measured_at": 1795315420
+  },
+  {
+   "rank": 190,
+   "nickname": "のるるん",
+   "score": 35.6,
+   "measured_at": 1795322138
+  },
+  {
+   "rank": 191,
+   "nickname": "さくぴ（足踏み）",
+   "score": 35.4,
+   "measured_at": 1795226629
+  },
+  {
+   "rank": 192,
+   "nickname": "りおやました（足踏み）",
+   "score": 35.4,
+   "measured_at": 1795314182
+  },
+  {
+   "rank": 193,
+   "nickname": "抜け駆け女王",
+   "score": 34.6,
+   "measured_at": 1794975860
+  },
+  {
+   "rank": 194,
+   "nickname": "だいち",
+   "score": 34.4,
+   "measured_at": 1795249556
+  },
+  {
+   "rank": 195,
+   "nickname": "ゆうすけ（足踏み）",
+   "score": 33.0,
+   "measured_at": 1795316542
+  },
+  {
+   "rank": 196,
+   "nickname": "むらまつ",
+   "score": 32.9,
+   "measured_at": 1794812696
+  },
+  {
+   "rank": 197,
+   "nickname": "サイテイテン",
+   "score": 32.9,
+   "measured_at": 1795230639
+  },
+  {
+   "rank": 198,
+   "nickname": "神（足踏み）",
+   "score": 30.4,
+   "measured_at": 1795327567
+  },
+  {
+   "rank": 199,
+   "nickname": "とも（足踏み）",
+   "score": 30.2,
+   "measured_at": 1795248189
+  },
+  {
+   "rank": 200,
+   "nickname": "ナギ",
+   "score": 30.1,
+   "measured_at": 1795250023
+  },
+  {
+   "rank": 201,
+   "nickname": "れいな（足踏み）",
+   "score": 27.6,
+   "measured_at": 1795234428
+  },
+  {
+   "rank": 202,
+   "nickname": "よう（足踏み）",
+   "score": 26.6,
+   "measured_at": 1795325181
+  },
+  {
+   "rank": 203,
+   "nickname": "しかさい",
+   "score": 25.1,
+   "measured_at": 1795328715
+  },
+  {
+   "rank": 204,
+   "nickname": "テスト０テッシー（足踏み）",
+   "score": 24.8,
+   "measured_at": 1795232174
+  },
+  {
+   "rank": 205,
+   "nickname": "みつ（足踏み）",
+   "score": 23.7,
+   "measured_at": 1795329348
+  },
+  {
+   "rank": 206,
+   "nickname": "Dai",
+   "score": 22.6,
+   "measured_at": 1795312222
+  },
+  {
+   "rank": 207,
+   "nickname": "いそ",
+   "score": 22.5,
+   "measured_at": 1795228117
+  },
+  {
+   "rank": 208,
+   "nickname": "テスト６０アキヒコ（足踏み）",
+   "score": 21.8,
+   "measured_at": 1795232026
+  },
+  {
+   "rank": 209,
+   "nickname": "みゃーたん",
+   "score": 21.7,
+   "measured_at": 1795328266
+  },
+  {
+   "rank": 210,
+   "nickname": "ますん",
+   "score": 21.5,
+   "measured_at": 1793939782
+  },
+  {
+   "rank": 211,
+   "nickname": "神速（足踏み）",
+   "score": 20.9,
+   "measured_at": 1795320338
+  },
+  {
+   "rank": 212,
+   "nickname": "さくと（足踏み）",
+   "score": 19.0,
+   "measured_at": 1795234190
+  },
+  {
+   "rank": 213,
+   "nickname": "こどもだいご（足踏み）",
+   "score": 17.8,
+   "measured_at": 1795313385
+  },
+  {
+   "rank": 214,
+   "nickname": "よしゆき（足踏み）",
+   "score": 13.8,
+   "measured_at": 1795314938
+  },
+  {
+   "rank": 215,
+   "nickname": "ひろし",
+   "score": 4.7,
+   "measured_at": 1795226133
+  },
+  {
+   "rank": 216,
+   "nickname": "わたなべっかむ",
+   "score": 3.8,
+   "measured_at": 1795244032
+  },
+  {
+   "rank": 217,
+   "nickname": "Dai",
+   "score": -9.7,
+   "measured_at": 1795312022
+  },
+  {
+   "rank": 218,
+   "nickname": "りりちゃん（足踏み）",
+   "score": -20.1,
+   "measured_at": 1795230869
+  }
+ ],
+ "latest": {
+  "rank": 130,
+  "nickname": "ひま",
+  "score": 48.0,
+  "measured_at": 1795334576
+ },
+ "generated_at": 1795334595
+}
