@@ -1,0 +1,61 @@
+{
+ "date": "2026-11-11",
+ "n_total": 8,
+ "entries": [
+  {
+   "rank": 1,
+   "nickname": "なっちゃん",
+   "score": 60.9,
+   "measured_at": 1794295727
+  },
+  {
+   "rank": 2,
+   "nickname": "だいごくん",
+   "score": 54.4,
+   "measured_at": 1792043131
+  },
+  {
+   "rank": 3,
+   "nickname": "あほだよ",
+   "score": 52.1,
+   "measured_at": 1792043924
+  },
+  {
+   "rank": 4,
+   "nickname": "ちいかわ",
+   "score": 46.5,
+   "measured_at": 1794295934
+  },
+  {
+   "rank": 5,
+   "nickname": "まっっすー",
+   "score": 45.5,
+   "measured_at": 1792043702
+  },
+  {
+   "rank": 6,
+   "nickname": "おくのけん",
+   "score": 44.5,
+   "measured_at": 1793939480
+  },
+  {
+   "rank": 7,
+   "nickname": "だいごくん2",
+   "score": 43.8,
+   "measured_at": 1792043432
+  },
+  {
+   "rank": 8,
+   "nickname": "ますん",
+   "score": 21.5,
+   "measured_at": 1793939782
+  }
+ ],
+ "latest": {
+  "rank": 4,
+  "nickname": "ちいかわ",
+  "score": 46.5,
+  "measured_at": 1794295934
+ },
+ "generated_at": 1794382117
+}
